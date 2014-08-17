@@ -3,6 +3,9 @@ package com.lenovo.xin.LeetCodeAnswers;
 public class ReverseWordsInAString {
 	
     public String reverseWords(String s) {
+    	if (s==null || s.length()==0){
+            return "";
+        }
         String[] words = s.trim().split("\\s+");	
         int wordCount = words.length; 
         StringBuilder sb = new StringBuilder();
