@@ -1,9 +1,9 @@
-package com.lenovo.xin.LeetCodeAnswers;
+package com.xin.LeetCodeAnswers;
 
 import java.util.Stack;
 
 public class EvaluateReversePolishNotation {
-    public int evalRPN(String[] tokens) {
+    public static int evalRPN(String[] tokens) {
     	if(tokens==null||tokens.length==0){
     		return 0;
     	}

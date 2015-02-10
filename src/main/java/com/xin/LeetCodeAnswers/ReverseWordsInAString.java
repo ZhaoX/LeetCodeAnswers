@@ -1,8 +1,8 @@
-package com.lenovo.xin.LeetCodeAnswers;
+package com.xin.LeetCodeAnswers;
 
 public class ReverseWordsInAString {
 	
-    public String reverseWords(String s) {
+    public static String reverseWords(String s) {
     	if (s==null || s.length()==0){
             return "";
         }
