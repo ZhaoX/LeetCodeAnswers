@@ -4,8 +4,6 @@ package com.xin.LeetCodeAnswers;
 // Author : Xin Zhao
 // Date   : 2015-02-12
 
-import java.util.List;
-
 /**********************************************************************************
  *
  * Sort a linked list in O(n log n) time using constant space complexity.
