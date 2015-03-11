@@ -12,3 +12,4 @@ LeetCode Java Solutions
 |116|[Populating Next Right Pointers in Each Node](https://oj.leetcode.com/problems/populating-next-right-pointers-in-each-node/)| [Java](./src/main/java/com/xin/LeetCodeAnswers/PopulatingNextRightPointersInEachNode.java)|Medium|
 |117|[Populating Next Right Pointers in Each Node II](https://oj.leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)| [Java](./src/main/java/com/xin/LeetCodeAnswers/PopulatingNextRightPointersInEachNode.II.java)|Hard|
 |8|[String to Integer (atoi)](https://oj.leetcode.com/problems/string-to-integer-atoi/)| [Java](./src/main/java/com/xin/LeetCodeAnswers/StringToIntegerAtoi.java)|Easy|
+|1|[Two Sum](https://oj.leetcode.com/problems/two-sum/)| [Java](./src/main/java/com/xin/LeetCodeAnswers/TwoSum.java)|Medium|
