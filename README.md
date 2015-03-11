@@ -15,3 +15,4 @@ LeetCode Java Solutions
 |1|[Two Sum](https://oj.leetcode.com/problems/two-sum/)| [Java](./src/main/java/com/xin/LeetCodeAnswers/TwoSum.java)|Medium|
 |15|[3Sum](https://oj.leetcode.com/problems/3sum/)| [java](./src/main/java/com/xin/LeetCodeAnswers/ThreeSum.java)|Medium|
 |16|[3Sum Closest](https://oj.leetcode.com/problems/3sum-closest/)| [java](./src/main/java/com/xin/LeetCodeAnswers/ThreeSum.java)|Medium|
+|17|[4Sum](https://oj.leetcode.com/problems/4sum/)| [java](./src/main/java/com/xin/LeetCodeAnswers/FourSum.java)|Medium|
