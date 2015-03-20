@@ -16,3 +16,4 @@ LeetCode Java Solutions
 |15|[3Sum](https://oj.leetcode.com/problems/3sum/)| [java](./src/main/java/com/xin/LeetCodeAnswers/ThreeSum.java)|Medium|
 |16|[3Sum Closest](https://oj.leetcode.com/problems/3sum-closest/)| [java](./src/main/java/com/xin/LeetCodeAnswers/ThreeSum.java)|Medium|
 |17|[4Sum](https://oj.leetcode.com/problems/4sum/)| [java](./src/main/java/com/xin/LeetCodeAnswers/FourSum.java)|Medium|
+|191|[number-of-1-bits](https://leetcode.com/problems/number-of-1-bits/)| [java](./src/main/java/com/xin/LeetCodeAnswers/NumberOf1Bit.java)|Easy|
