@@ -1,7 +1,7 @@
 LeetCodeAnswers
 ========
 
-LeetCode Java Solutions
+Algorithms
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -17,3 +17,4 @@ LeetCode Java Solutions
 |16|[3Sum Closest](https://oj.leetcode.com/problems/3sum-closest/)| [java](./src/main/java/com/xin/LeetCodeAnswers/ThreeSum.java)|Medium|
 |17|[4Sum](https://oj.leetcode.com/problems/4sum/)| [java](./src/main/java/com/xin/LeetCodeAnswers/FourSum.java)|Medium|
 |191|[number-of-1-bits](https://leetcode.com/problems/number-of-1-bits/)| [java](./src/main/java/com/xin/LeetCodeAnswers/NumberOf1Bit.java)|Easy|
+|146|[LRU Cache](https://leetcode.com/problems/lru-cache/)| [java](./src/main/java/com/xin/LeetCodeAnswers/LRUCache.java)|Hard|
