@@ -24,12 +24,12 @@ Database
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|175|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)| [java](./src/main/sql/CombineTwoTables.sql)|Easy|
-|176|[Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)| [java](./src/main/sql/SecondHighestSalary.sql)|Easy|
-|182|[Duplicate Emails](https://leetcode.com/problemset/database/)| [java](./src/main/sql/DuplicateEmails.sql)|Easy|
+|175|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)| [mysql](./src/main/sql/CombineTwoTables.sql)|Easy|
+|176|[Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)| [mysql](./src/main/sql/SecondHighestSalary.sql)|Easy|
+|182|[Duplicate Emails](https://leetcode.com/problemset/database/)| [mysql](./src/main/sql/DuplicateEmails.sql)|Easy|
 
 Shell
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|195|[Tenth Line](https://leetcode.com/problems/tenth-line/)| [java](./src/main/shell/TenthLine.sh)|Easy|
+|195|[Tenth Line](https://leetcode.com/problems/tenth-line/)| [bash](./src/main/shell/TenthLine.sh)|Easy|
