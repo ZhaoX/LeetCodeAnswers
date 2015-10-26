@@ -18,6 +18,7 @@ Algorithms
 |17|[4Sum](https://oj.leetcode.com/problems/4sum/)| [java](./src/main/java/com/xin/LeetCodeAnswers/FourSum.java)|Medium|
 |191|[number-of-1-bits](https://leetcode.com/problems/number-of-1-bits/)| [java](./src/main/java/com/xin/LeetCodeAnswers/NumberOf1Bit.java)|Easy|
 |146|[LRU Cache](https://leetcode.com/problems/lru-cache/)| [java](./src/main/java/com/xin/LeetCodeAnswers/LRUCache.java)|Hard|
+|146|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)| [java](./src/main/java/com/xin/LeetCodeAnswers/MoveZeroes.java)|Easy|
 
 
 Database
