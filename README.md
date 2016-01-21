@@ -21,6 +21,7 @@ Algorithms
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)| [java](./src/main/java/com/xin/LeetCodeAnswers/MoveZeroes.java)|Easy|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)| [java](./src/main/java/com/xin/LeetCodeAnswers/LongestSubstringWithoutRepeatingCharacters.java)|Medium|
 |4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)| [java](./src/main/java/com/xin/LeetCodeAnswers/MedianOfTwoSortedArrays.java)|Hard|
+|5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)| [java](./src/main/java/com/xin/LeetCodeAnswers/LongestPalindromicSubstring.java)|Medium|
 
 
 Database
