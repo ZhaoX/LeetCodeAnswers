@@ -23,6 +23,7 @@ Algorithms
 |4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)| [java](./src/main/java/com/xin/LeetCodeAnswers/MedianOfTwoSortedArrays.java)|Hard|
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)| [java](./src/main/java/com/xin/LeetCodeAnswers/LongestPalindromicSubstring.java)|Medium|
 |6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)| [java](./src/main/java/com/xin/LeetCodeAnswers/ZigzagConversion.java)|Easy|
+|7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)| [java](./src/main/java/com/xin/LeetCodeAnswers/ReverseInteger.java)|Easy|
 
 
 Database
