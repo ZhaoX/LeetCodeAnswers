@@ -25,6 +25,7 @@ Algorithms
 |6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)| [java](./src/main/java/com/xin/LeetCodeAnswers/ZigzagConversion.java)|Easy|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)| [java](./src/main/java/com/xin/LeetCodeAnswers/ReverseInteger.java)|Easy|
 |8|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)| [java](./src/main/java/com/xin/LeetCodeAnswers/PalindromeNumber.java)|Easy|
+|9|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)| [java](./src/main/java/com/xin/LeetCodeAnswers/RegularExpressionMatching.java)|Hard|
 
 
 Database
