@@ -28,6 +28,7 @@ Algorithms
 |10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)| [java](./src/main/java/com/xin/LeetCodeAnswers/RegularExpressionMatching.java)|Hard|
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)| [java](./src/main/java/com/xin/LeetCodeAnswers/ContainerWithMostWater.java)|Medium|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)| [java](./src/main/java/com/xin/LeetCodeAnswers/LongestCommonPrefix.java)|Easy|
+|17|[Longest Common Prefix](https://leetcode.com/problems/letter-combinations-of-a-phone-number/| [java](./src/main/java/com/xin/LeetCodeAnswers/LetterCombinationsOfAPhoneNumber.java)|Medium|
 
 
 Database
