@@ -29,8 +29,8 @@ Algorithms
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)| [java](./src/main/java/com/xin/LeetCodeAnswers/ContainerWithMostWater.java)|Medium|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)| [java](./src/main/java/com/xin/LeetCodeAnswers/LongestCommonPrefix.java)|Easy|
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)| [java](./src/main/java/com/xin/LeetCodeAnswers/LetterCombinationsOfAPhoneNumber.java)|Medium|
-|19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)| [java](./src/main/java/com/xin/RemoveNthNodeFromEndOfList.java)|Easy|
-|20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)| [java](./src/main/java/com/xin/ValidParentheses.java)|Easy|
+|19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)| [java](./src/main/java/com/xin/LeetCodeAnswers/RemoveNthNodeFromEndOfList.java)|Easy|
+|20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)| [java](./src/main/java/com/xin/LeetCodeAnswers/ValidParentheses.java)|Easy|
 
 
 Database
