@@ -48,3 +48,4 @@ Shell
 |---| ----- | -------- | ---------- |
 |195|[Tenth Line](https://leetcode.com/problems/tenth-line/)| [bash](./src/main/shell/TenthLine.sh)|Easy|
 |194|[Transpose File](https://leetcode.com/problems/transpose-file/)| [bash](./src/main/shell/TransposeFile.sh)|Medium|
+|193|[Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers/)| [bash](./src/main/shell/ValidPhoneNumbers.sh)|Easy|
