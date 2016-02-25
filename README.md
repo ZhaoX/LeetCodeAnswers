@@ -34,6 +34,7 @@ Algorithms
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)| [java](./src/main/java/com/xin/LeetCodeAnswers/MergeTwoSortedLists.java)|Easy|
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)| [java](./src/main/java/com/xin/LeetCodeAnswers/GenerateParentheses.java)|Medium|
 |23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)| [java](./src/main/java/com/xin/LeetCodeAnswers/MergeKSortedLists.java)|Hard|
+|24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)| [java](./src/main/java/com/xin/LeetCodeAnswers/SwapNodesInPairs.java)|Medium|
 
 
 Database
