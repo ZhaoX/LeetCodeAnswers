@@ -36,6 +36,7 @@ Algorithms
 |23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)| [java](./src/main/java/com/xin/LeetCodeAnswers/MergeKSortedLists.java)|Hard|
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)| [java](./src/main/java/com/xin/LeetCodeAnswers/SwapNodesInPairs.java)|Medium|
 |25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)| [java](./src/main/java/com/xin/LeetCodeAnswers/ReverseNodesInKGroup.java)|Hard|
+|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| [java](./src/main/java/com/xin/LeetCodeAnswers/RemoveDuplicatesFromSortedArray.java)|Easy|
 
 
 Database
