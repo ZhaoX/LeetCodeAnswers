@@ -32,6 +32,7 @@ Algorithms
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)| [java](./src/main/java/com/xin/LeetCodeAnswers/RemoveNthNodeFromEndOfList.java)|Easy|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)| [java](./src/main/java/com/xin/LeetCodeAnswers/ValidParentheses.java)|Easy|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)| [java](./src/main/java/com/xin/LeetCodeAnswers/MergeTwoSortedLists.java)|Easy|
+|22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)| [java](./src/main/java/com/xin/LeetCodeAnswers/GenerateParentheses.java)|Medium|
 
 
 Database
