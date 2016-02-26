@@ -38,6 +38,7 @@ Algorithms
 |25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)| [java](./src/main/java/com/xin/LeetCodeAnswers/ReverseNodesInKGroup.java)|Hard|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| [java](./src/main/java/com/xin/LeetCodeAnswers/RemoveDuplicatesFromSortedArray.java)|Easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)| [java](./src/main/java/com/xin/LeetCodeAnswers/RemoveElement.java)|Easy|
+|28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)| [java](./src/main/java/com/xin/LeetCodeAnswers/ImplementStrstr.java)|Easy|
 
 
 Database
