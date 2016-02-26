@@ -39,6 +39,7 @@ Algorithms
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| [java](./src/main/java/com/xin/LeetCodeAnswers/RemoveDuplicatesFromSortedArray.java)|Easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)| [java](./src/main/java/com/xin/LeetCodeAnswers/RemoveElement.java)|Easy|
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)| [java](./src/main/java/com/xin/LeetCodeAnswers/ImplementStrstr.java)|Easy|
+|29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)| [java](./src/main/java/com/xin/LeetCodeAnswers/DivideTwoIntegers.java)|Medium|
 
 
 Database
