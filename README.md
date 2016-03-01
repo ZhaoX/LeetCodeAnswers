@@ -40,6 +40,7 @@ Algorithms
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)| [java](./src/main/java/com/xin/LeetCodeAnswers/RemoveElement.java)|Easy|
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)| [java](./src/main/java/com/xin/LeetCodeAnswers/ImplementStrstr.java)|Easy|
 |29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)| [java](./src/main/java/com/xin/LeetCodeAnswers/DivideTwoIntegers.java)|Medium|
+|30|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)| [java](./src/main/java/com/xin/LeetCodeAnswers/SubstringWithConcatenationOfAllWords.java)|Hard|
 
 
 Database
