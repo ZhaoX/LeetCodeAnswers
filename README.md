@@ -42,6 +42,7 @@ Algorithms
 |29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)| [java](./src/main/java/com/xin/LeetCodeAnswers/DivideTwoIntegers.java)|Medium|
 |30|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)| [java](./src/main/java/com/xin/LeetCodeAnswers/SubstringWithConcatenationOfAllWords.java)|Hard|
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation/)| [java](./src/main/java/com/xin/LeetCodeAnswers/NextPermutation.java)|Medium|
+|32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)| [java](./src/main/java/com/xin/LeetCodeAnswers/LongestValidParentheses.java)|Hard|
 
 
 Database
