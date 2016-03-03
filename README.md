@@ -43,6 +43,7 @@ Algorithms
 |30|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)| [java](./src/main/java/com/xin/LeetCodeAnswers/SubstringWithConcatenationOfAllWords.java)|Hard|
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation/)| [java](./src/main/java/com/xin/LeetCodeAnswers/NextPermutation.java)|Medium|
 |32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)| [java](./src/main/java/com/xin/LeetCodeAnswers/LongestValidParentheses.java)|Hard|
+|33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)| [java](./src/main/java/com/xin/LeetCodeAnswers/SearchInRotatedSortedArray.java)|Hard|
 
 
 Database
