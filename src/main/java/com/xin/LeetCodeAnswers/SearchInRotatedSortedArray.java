@@ -55,7 +55,7 @@ public class SearchInRotatedSortedArray {
                     start = mid + 1;
                 }
             } else {
-                if(target > nums[0]) {
+                if(target >= nums[0]) {
                     end = mid - 1;
                 } else {
                     start = mid + 1;
@@ -71,6 +71,7 @@ public class SearchInRotatedSortedArray {
         System.out.println(o.search(new int[]{4, 5, 6, 7, 0, 1, 2}, 7));
         System.out.println(o.search(new int[]{0, 1, 2, 4, 5, 6, 7}, 7));
         System.out.println(o.search(new int[]{1, 3}, 3));
+        System.out.println(o.search(new int[]{5, 1, 3}, 5));
     }
 
 }
