@@ -44,6 +44,7 @@ Algorithms
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation/)| [java](./src/main/java/com/xin/LeetCodeAnswers/NextPermutation.java)|Medium|
 |32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)| [java](./src/main/java/com/xin/LeetCodeAnswers/LongestValidParentheses.java)|Hard|
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)| [java](./src/main/java/com/xin/LeetCodeAnswers/SearchInRotatedSortedArray.java)|Hard|
+|34|[Search for a Range](https://leetcode.com/problems/search-for-a-range/)| [java](./src/main/java/com/xin/LeetCodeAnswers/SearchForARange.java)|Medium|
 
 
 Database
