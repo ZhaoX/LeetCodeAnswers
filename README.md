@@ -46,6 +46,7 @@ Algorithms
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)| [java](./src/main/java/com/xin/LeetCodeAnswers/SearchInRotatedSortedArray.java)|Hard|
 |34|[Search for a Range](https://leetcode.com/problems/search-for-a-range/)| [java](./src/main/java/com/xin/LeetCodeAnswers/SearchForARange.java)|Medium|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)| [java](./src/main/java/com/xin/LeetCodeAnswers/SearchInsertPosition.java)|Medium|
+|36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)| [java](./src/main/java/com/xin/LeetCodeAnswers/ValidSudoku.java)|Easy|
 
 
 Database
